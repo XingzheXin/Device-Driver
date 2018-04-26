@@ -1,1 +1,0 @@
-cmd_/home/student/ORielly-Module-Programming/scullbuffer/scull.o := ld -m elf_x86_64   -r -o /home/student/ORielly-Module-Programming/scullbuffer/scull.o /home/student/ORielly-Module-Programming/scullbuffer/main.o /home/student/ORielly-Module-Programming/scullbuffer/buffer.o 
