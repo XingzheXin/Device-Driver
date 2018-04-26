@@ -1,0 +1,1 @@
+cmd_/home/student/ORielly-Module-Programming/scull/scull.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/ORielly-Module-Programming/scull/scull.ko /home/student/ORielly-Module-Programming/scull/scull.o /home/student/ORielly-Module-Programming/scull/scull.mod.o ;  true

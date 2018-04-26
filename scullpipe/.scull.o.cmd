@@ -1,0 +1,1 @@
+cmd_/home/student/ORielly-Module-Programming/scullpipe/scull.o := ld -m elf_x86_64   -r -o /home/student/ORielly-Module-Programming/scullpipe/scull.o /home/student/ORielly-Module-Programming/scullpipe/main.o /home/student/ORielly-Module-Programming/scullpipe/pipe.o 

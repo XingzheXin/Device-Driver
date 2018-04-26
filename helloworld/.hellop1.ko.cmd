@@ -1,0 +1,1 @@
+cmd_/home/student/ORielly-Module-Programming/helloworld/hellop1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/ORielly-Module-Programming/helloworld/hellop1.ko /home/student/ORielly-Module-Programming/helloworld/hellop1.o /home/student/ORielly-Module-Programming/helloworld/hellop1.mod.o ;  true
